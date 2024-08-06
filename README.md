@@ -72,4 +72,4 @@ https://avillasante-hotmail.visualstudio.com/_git/rACARS
 
 ## Contact
 
-For questions or support, please contact us at [avillasante@hotmail.com](mailto:avillasante@hotmail.comm
+For questions or support, please contact us at [avillasante@hotmail.com](mailto:avillasante@hotmail.com)
